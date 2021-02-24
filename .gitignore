@@ -29,3 +29,5 @@ build/
 
 ### VS Code ###
 .vscode/
+/src/main/appengine/.gcloudignore
+/src/main/appengine/personal-config-server.jar
